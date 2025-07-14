@@ -10,5 +10,6 @@ public class Main {
             rev = rev + str.charAt(1);
         }
         System.out.println(rev);
+        System.out.println("Test");
     }
 }
